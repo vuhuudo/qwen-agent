@@ -91,7 +91,7 @@ ollama pull qwen2.5-coder:7b
 ### 3. Cài đặt các gói phụ thuộc
 Sử dụng `uv` để đồng bộ môi trường siêu tốc:
 ```bash
-git clone https://github.com/llIIllIID0EIIllIIll/qwen-agent.git
+git clone https://github.com/vuhuudo/qwen-agent.git
 cd qwen-agent
 
 # Cài đặt thư viện bằng uv
